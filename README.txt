@@ -10,7 +10,6 @@
                     The Ultimate Packer for eXecutables
    Copyright (c) 1996-2016 Markus Oberhumer, Laszlo Molnar & John Reiser
                            https://upx.github.io
-               https://github.com/upx/upx-stubtools/releases
 
 
 
@@ -30,4 +29,4 @@ Markus
    <markus@oberhumer.com>
 
 
-# vi:ts=4:et:nowrap
+# vim:set ts=4 sw=4 et:
