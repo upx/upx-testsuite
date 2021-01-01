@@ -1,3 +1,5 @@
+:hardbreaks:
+[subs="+macros"]
 ....
                  ooooo     ooo  ooooooooo.  ooooooo  ooooo
                  `888'     `8'  `888   `Y88. `8888    d8'
@@ -9,7 +11,7 @@
 
 
                     The Ultimate Packer for eXecutables
-   Copyright (c) 1996-2020 Markus Oberhumer, Laszlo Molnar & John Reiser
+   Copyright (c) 1996-2021 Markus Oberhumer, Laszlo Molnar & John Reiser
                            https://upx.github.io
 ....
 
@@ -22,13 +24,12 @@ This repository contains the UPX test suite.
 
 WORK IN PROGRESS.
 
-
 Share and Enjoy,
 Markus
 
-
-   Markus F.X.J. Oberhumer
-   <markus@oberhumer.com>
+'''
+Markus F.X.J. Oberhumer
+<markus@oberhumer.com>
 
 
 // vim:set ts=4 sw=4 et:
